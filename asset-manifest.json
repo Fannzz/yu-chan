@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yu-chan/static/css/main.06148e84.css",
+    "main.js": "/yu-chan/static/js/main.6589d4a7.js",
+    "static/js/787.8bb99d8b.chunk.js": "/yu-chan/static/js/787.8bb99d8b.chunk.js",
+    "index.html": "/yu-chan/index.html",
+    "main.06148e84.css.map": "/yu-chan/static/css/main.06148e84.css.map",
+    "main.6589d4a7.js.map": "/yu-chan/static/js/main.6589d4a7.js.map",
+    "787.8bb99d8b.chunk.js.map": "/yu-chan/static/js/787.8bb99d8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06148e84.css",
+    "static/js/main.6589d4a7.js"
+  ]
+}
